@@ -77,6 +77,16 @@ This will return a json object of all the rows in the api database.
 I tried using some HTML+JS+CSS to make it little interactive.
 Here, 
 1. Enter the grid size int the text box.
+
+![1](https://user-images.githubusercontent.com/45611729/66444501-62055f00-ea3b-11e9-8c6f-b94749403b5e.PNG)
+
 2. Click on "Click here for Grid Details"
+
+![2](https://user-images.githubusercontent.com/45611729/66444583-ab55ae80-ea3b-11e9-8655-b588d53307a6.PNG)
+
 3. After filling, hit submit.
+
 4. It will take you to gui solution page.
+
+![3](https://user-images.githubusercontent.com/45611729/66444614-c58f8c80-ea3b-11e9-8c1c-aefa7d4da0ba.PNG)
+
