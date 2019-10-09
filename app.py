@@ -75,8 +75,6 @@ def check_direction(cell_one, cell_two):
 
 def validate_grid(N, grid):
   # Check if the grid size is valid?, Is princess and mario included?
-  print(grid)
-  print(len(grid))
   if len(grid) <= 1 or N <= 1:
     raise Exception("Grid not sufficiently large")
   if N != len(grid):
