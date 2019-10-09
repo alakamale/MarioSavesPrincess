@@ -23,8 +23,9 @@ The ***glen*** refers to the size of the grid, and the ***grid*** is a string.
 ### How to execute
 * $ python pathFinder.py --glen <> --grid  <'' '' ''> </br>
 Example </br>
-* $ python pathFinder.py --glen 3 --grid '--p' '--m' '--x'
+``` $ python pathFinder.py --glen 3 --grid '--m' '-x-' '-p-' ```
 
+```[('DOWN', 'DOWN', 'LEFT')]```
 
 # Task 2
 ## Endpoints 1
