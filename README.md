@@ -17,6 +17,16 @@ Mario and the princess are trapped in a square grid (N*N), Mario needs to reach 
 - Third task : Interactive App
 
 # Results
+# Task 1 
+Takes two arguments ***glen*** and ***grid***, Validates and returns all possible short paths. </br>
+The ***glen*** refers to the size of the grid, and the ***grid*** is a string.
+### How to execute
+* $ python pathFinder.py --glen <> --grid  <'' '' ''> </br>
+Example </br>
+* $ python pathFinder.py --glen 3 --grid '--p' '--m' '--x'
+
+
+# Task 2
 ## Endpoints 1
 Solution to first task
 #### /mario/<<int:glen>>/< grid>
@@ -73,7 +83,7 @@ This will return a json object of all the rows in the api database.
 ]
 ``` 
 
-## Endpoints 3
+# Task 3
 I tried using some HTML+JS+CSS to make it little interactive.
 Here, 
 1. Enter the grid size int the text box.
