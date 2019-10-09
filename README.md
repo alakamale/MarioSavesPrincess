@@ -1,5 +1,5 @@
 # MarioSavesPrincess
-Mario and the princess are trapped in a square grid (N*N), Mario needs to reach the princess with minimum number of steps (shortest paths), while avoiding any obstacles
+Mario and the princess are trapped in a square grid (N*N), Mario needs to reach the princess with minimum number of steps (shortest paths), while avoiding any obstacles.
 
 # Requirements
 - flask
@@ -8,7 +8,7 @@ Mario and the princess are trapped in a square grid (N*N), Mario needs to reach 
 - datetime
 - werkzeug
 
-# How to Execute
+# How to Execute (API)
 ```python run.py```<br/>
 
 ## Task List
@@ -28,7 +28,7 @@ Example, </br>
 
 # Task 2
 ## Endpoints 1
-Solution to first task
+Solution to second task
 #### /mario/<<int:glen>>/< grid>
 The ***glen*** refers to the size of the grid, and the ***grid*** is a string of comma separate rows. <br/>
 
