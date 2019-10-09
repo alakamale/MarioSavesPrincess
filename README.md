@@ -22,9 +22,8 @@ Takes two arguments ***glen*** and ***grid***, Validates and returns all possibl
 The ***glen*** refers to the size of the grid, and the ***grid*** is a string.
 ### How to execute
 * $ python pathFinder.py --glen <> --grid  <'' '' ''> </br>
-Example </br>
-``` $ python pathFinder.py --glen 3 --grid '--m' '-x-' '-p-' ```
-
+Example, </br>
+``` $ python pathFinder.py --glen 3 --grid '--m' '-x-' '-p-' ``` </br>
 ```[('DOWN', 'DOWN', 'LEFT')]```
 
 # Task 2
